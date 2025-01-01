@@ -58,4 +58,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(project(":ImageCardLib"))
+//    implementation("com.github.anurodh200:ImageCardLibDemo:1.0.0")
 }
