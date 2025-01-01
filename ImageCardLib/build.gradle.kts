@@ -58,7 +58,7 @@ afterEvaluate {
                 from(components["release"])
 
                 groupId = "com.github.anurodh200"
-                artifactId = "image-preview-card"
+                artifactId = "ImageCardLibDemo"
                 version = "1.0"
             }
         }
